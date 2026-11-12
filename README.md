@@ -2,6 +2,7 @@
 
 a lightweight AUR helper for Arch Linux
 MPM allows you to search, install, remove, and update packages from official repositories and the AUR
+(educational project)
 
 ## features
 
