@@ -15,7 +15,7 @@ MPM allows you to search, install, remove, and update packages from official rep
 **requirements:** Go (+1.27.3), Git, pacman, base-devel
 
 ```bash
-git clone https://github.com/USERNAME/mpm.git
+git clone https://github.com/lock3d9/mpm.git
 cd mpm
 go build -ldflags="-s -w" -o mpm .
 sudo install -Dm755 mpm /usr/local/bin/mpm
